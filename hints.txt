@@ -1,0 +1,8 @@
+a = v
+b = a
+c = e
+d = g
+i = i
+z = f
+y = p
+x = j
