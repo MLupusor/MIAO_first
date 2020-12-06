@@ -2,7 +2,22 @@ a = v
 b = a
 c = e
 d = g
-i = i
 z = f
 y = p
 x = j
+r = b
+v = h
+q = m
+l = q
+p = w
+s = x
+u = s
+w = t
+e = z
+
+r = m
+i = o
+o = i
+t = k
+
+
